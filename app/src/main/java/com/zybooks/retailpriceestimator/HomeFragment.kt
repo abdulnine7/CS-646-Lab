@@ -15,7 +15,7 @@ import android.hardware.SensorManager
 import androidx.appcompat.app.AppCompatActivity
 import kotlin.math.abs
 
-const val SHAKE_THRESHOLD = 10
+const val SHAKE_THRESHOLD = 1000
 
 /**
  * A simple [Fragment] subclass.

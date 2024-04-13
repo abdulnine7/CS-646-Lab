@@ -1,5 +1,16 @@
-Add any 3 of the following 5 features from chapters 5-7 to your app:  (20 points each)
 
+Lab 3 Work:
+
+Add any 3 of the following 5 features from chapters 5-7 to your app
 1. AlertDialog that has dialog buttons
 2. Fragment
 3. Settings page
+
+
+
+Lab 4 Work:
+
+Add any 3 out of the following 6 features from chapters 8-10 to your app:
+1. Play a sound when a button is clicked
+2. Display an animation
+3. Uses the sensors
