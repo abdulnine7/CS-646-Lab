@@ -1,0 +1,5 @@
+Add any 3 of the following 5 features from chapters 5-7 to your app:  (20 points each)
+
+1. AlertDialog that has dialog buttons
+2. Fragment
+3. Settings page
